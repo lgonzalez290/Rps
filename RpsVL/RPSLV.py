@@ -16,8 +16,8 @@ print("Please put only Capital R,P,S,V for Spock,and L for Lizard")
 while value:
     name1 = input("What is your name you will be player one? :")
     name2 = input("What is your name you will be player two? :")
-    player1 = input("Player one what would you like to select(P,R or S)? :")
-    player2 = input("Player two what would you like to select(P,R or S)?? :")
+    player1 = input("Player one what would you like to select(P,R,S,L or V)? :")
+    player2 = input("Player two what would you like to select(P,R S,L, or V)?? :")
     if player1=="R" and player2=="S":
         print("Player 1 has won")
         player1num+=1
