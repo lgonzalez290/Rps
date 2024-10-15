@@ -1,5 +1,5 @@
 #
-#       project: lyrics finder and counter
+#       project: Rpsvl
 #        author: Lucas Gonzalez<lgonzalez2918617@woonsocketschools.com>
 #        author: Brannon Khounvichith<bkhounvichith2818353@woonsocketschools.com>     
 #
